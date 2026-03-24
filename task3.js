@@ -6,4 +6,4 @@ let diff = Math.abs(n - 13);
 if (n > 13){
     diff = diff * 2;
 }
-console.log("The result for n=" + n + " is: " + diff)
+console.log("The result for n=" + n + " is: " + diff);
