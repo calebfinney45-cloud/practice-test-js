@@ -8,7 +8,7 @@ const students = [
   {name:'Shelby', marks:68}
 ];
 
-let totalSum = 0
+let totalSum = 0;
 
 for ( let i=0; i<students.length; i++ ) {
     console.log('Processing:' + students[i].name);
