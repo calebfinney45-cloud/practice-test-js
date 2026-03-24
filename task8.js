@@ -1,6 +1,6 @@
 //Check whether digits in a given number are the same.
 
-const num = 2221;
+const num = 2222;
 const str = num.toString();
 
 let allSame = true;
